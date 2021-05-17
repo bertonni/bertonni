@@ -44,5 +44,4 @@ Here are some technologies that I worked with:
 
 [![Custom badge](https://img.shields.io/endpoint?logo=linkedin&style=for-the-badge&url=https%3A%2F%2Funtitled-ajnw1g8bne3l.runkit.sh%2F)](https://www.linkedin.com/in/bertonni-paz-3992ab212/)
 
----
-> I guess this is it. I will try to update this info frequently =)
+### I guess this is it. I will try to update these informations frequently =).

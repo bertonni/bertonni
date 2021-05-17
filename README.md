@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Bertonni and Im an aspiring WEB developer. I'm currently learning ReactJs with NextJs and I'm also studying VueJs. My main goal is learn the front-end technologies and develop awesome WEB Applications. I'm still at beggining of my journey, but I like to learn and also love these technologies, so I wish I could get far enough in this area.
+
+
+### The last projects that I've working on
+
+- Todo List: [Check it out](https://github.com/bertonnipaz/vueproject/tree/main/vue-project)
+- Alium: [Check it out](http://alium.epizy.com/) `(It's not responsive, but it was amazing working on it)`
+- PDA: `Coming soon`
+
 Here are some technologies that I worked with:
 
 **Operational Systems**
@@ -26,7 +35,14 @@ Here are some technologies that I worked with:
 
 [![Custom badge](https://img.shields.io/endpoint?logo=mysql&style=for-the-badge&url=https%3A%2F%2Funtitled-2jv60zzn6uuo.runkit.sh%2F)](https://www.mysql.com/)
 
+**Tools**
+
+[![Custom badge](https://img.shields.io/endpoint?logo=git&style=for-the-badge&url=https%3A%2F%2Funtitled-y7gclycwdw86.runkit.sh%2F)](https://git-scm.com/)
+[![Custom badge](https://img.shields.io/endpoint?logo=visual-studio-code&style=for-the-badge&url=https%3A%2F%2Funtitled-muxjvbzh0igb.runkit.sh%2F)](https://code.visualstudio.com/)
+
 **Social Media**
 
 [![Custom badge](https://img.shields.io/endpoint?logo=linkedin&style=for-the-badge&url=https%3A%2F%2Funtitled-ajnw1g8bne3l.runkit.sh%2F)](https://www.linkedin.com/in/bertonni-paz-3992ab212/)
 
+---
+> I guess this is it. I will try to update this info frequently =)

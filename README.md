@@ -5,7 +5,7 @@ My name is Bertonni and Im an aspiring WEB developer. I'm currently learning Rea
 
 ### The last projects that I've working on
 
-- Todo List: [Check it out](https://github.com/bertonnipaz/vueproject/tree/main/vue-project)
+- Todo List: [Check it out](https://badboys-todolist.netlify.app/#/)
 - Alium: [Check it out](http://alium.epizy.com/) `(It's not responsive, but it was amazing working on it)`
 - PDA: [Check it out](https://pda-amigao.vercel.app/) `In progress`
 > To open any links in a new tab, just do: CTRL + click (on Windows and Linux) or CMD + click (on MacOS)

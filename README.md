@@ -5,7 +5,7 @@ My name is Bertonni and Im an aspiring WEB developer. I'm currently learning Rea
 
 ### The last projects that I've working on
 
-- Todo List: [Check it out](https://badboys-todolist.netlify.app/#/)
+- Todo List: [Check it out](https://todo-list-btsp.vercel.app/)
 > To open any links in a new tab, just do: CTRL + click (on Windows and Linux) or CMD + click (on MacOS)
 
 ### Here are some technologies/tools that I worked with:
